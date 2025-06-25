@@ -37,3 +37,9 @@ A lightweight WordPress plugin to manage and reuse your site's global contact in
 3. Plugin is namespaced to avoid function name collisions
 4. Follows WordPress coding standards
 
+## 🔧 Manual Installation
+
+1. Go to Plugins → Add New → Upload Plugin
+2. Choose the downloaded .zip file
+3. Click Install Now, then Activate
+4. Go to Settings → Contact Info to configure details
